@@ -1,0 +1,44 @@
+Table Fields should highlight if entered a wrong data in it ? 
+Table field should have asterisk beside the mandatory field
+
+On hovering over String logo should show home logo label - so user will get to know  that can redirect to home page 
+
+On Landing sceen : user can not redirect to SRP FUND B if try to go through menu - Fund- Fund B  
+
+
+Above tab name should be shown on the page header once landed/redirect on these sceen like Conti,Budget Summary,About us page 
+User will get to know on which page currently he is 
+
+
+Loan Details : Hedging :  No success message is shown after adding a valid data 
+Hedging : 
+Swap rate : add this value : 40820985428 and save it 
+Try delete these values : Does not allow to delete it using backspace , To delete : need to select all the values, delete it 
+
+Using ESC key, can not close the edit table mode 
+
+
+Add loan page : 
+Can not navigate using tab button or select the dropdown on add loan
+Add loan/Add loan ledger : Auto Focus issue on the pop up field and tab key does not work on these pop up 
+Save button should be right side, might be chanches that user may click on cancel while saving the loan as it just below the fields 
+
+Good : 
+Able to seach the proeprty using all details 
+Website is responsive 
+
+Issue : suppose we have table that has no values in it and if try to update those value then we get the pop up, nothing to update,
+so we cant check the table valuse 
+so we have to arrange those test cases acordingly like 1. after performing update scenario, we have perform the null test case execution 
+
+No data available is showing once we landed on any page, instead it should show fetching the data 
+once client knows the data is not on the server then it should show, No data is available 
+
+
+#########################################################################################################################################
+Gone through the stream app in the todays meeting 
+How do they update the property ?
+What if property got destroyed ?
+How the billing happen for it ?
+
+
